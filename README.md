@@ -1,1 +1,257 @@
-# seoksu
+<meta charset="UTF-8">
+<div class="prd-detail">
+                            
+                             <!-- 쿠폰 관련 부분 -->
+                                                           <!-- 쿠폰관련 부분 끝 --> 
+                                
+                                
+                                <div id="videotalk_area"></div><!-- [OPENEDITOR] --><div style="text-align: center;">
+<a href="http://jubil2018.cafe24.com/lo/love/online_pt/list.htm"><img src="http://jubil2018.cafe24.com/online_pt/img/online_pt.png" border="0"> </a>
+<a href="https://www.youtube.com/playlist?list=PLfS5IjBFyEmt44GNnjTCHlTmpzqnFquXd"><img src="http://jubil2018.cafe24.com/online_pt/img/youtube_pt.png" border="0"> </a>
+</div>
+
+<div style="text-align: left;"><img src="http://www.jubilate.com/design/jubil123/book_info.jpg" border="0"><br>
+부활절 칸타타<strong> '십자가, 그 사랑'</strong>은 십자가의 고난을 통과하여 부활의 기쁨을 누리길 원하는<br>
+모든 성도들을 향한 큰 선물이 될 것 입니다.<br>
+예수님의 예루살렘 입성에서 시작하여 최후의 만찬, 그리고 재판과 십자가 고난의 과정을 <br>
+시간전개 순으로 묘사하였습니다.<br>
+마지막 두 곡은 힘차고 밝은 곡으로 부활과 영광을 선포하는 곡입니다.<br>
+한 곡 한 곡 독립된 곡으로 연주할 수도 있으며, 전체 곡을 하나의 칸타타로 찬양할 수 도 있습니다.<br><br>
+
+<strong>총 연주시간은 25분~35분</strong>이며 내레이션이 포함되어있습니다.<br>
+<br>
+
+* 가사 PPT와 표지 포스터는 일반자료실에서 로그인 후 다운받으실 수 있습니다.<br><br><br></div><br><br><br>
+<div style="text-align: center;">
+	<img width="600" height="50" src="http://jubil.cafe24.com/lo/love/img/t_love.jpg"></div><br><br>
+<table width="600" bordercolor="#d3edfa" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="36" height="25" align="center" class="style style3"><strong>구분</strong></td>
+<td height="25" class="style style3">
+<div style="text-align: center;"><strong>제목</strong> </div></td>
+<td width="70" align="center" class="style4" valign="middle">
+  <div style="text-align: center;"><strong>작곡가</strong></div></td>
+<td width="45" align="center" valign="middle"><strong>동영상</strong></td>
+<td width="200" align="center" class="style4" valign="middle">
+  <div style="text-align: center;"><strong>파트듣기</strong> </div></td>
+<td width="45" align="center" valign="middle" class="style4"><div style="text-align: center;"><strong>듣기</strong></div></td>
+</tr>
+<tr>
+<td align="center" class="style style3">
+<div style="text-align: center;">1 </div></td>
+<td width="140" height="25" class="style style3">
+<div style="text-align: left;">
+<table width="98%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>종려나무 흔들며 </td></tr></tbody></table></div></td>
+<td align="center" valign="middle">
+  <p style="text-align: center;">최기욱 </p></td>
+<td><div style="text-align: center;"><a href="https://youtu.be/huFtTN5W7wA" target="_blank"><img width="34" height="24" src="http://jubil.cafe24.com/my/10/maine/tube.jpg" border="0"></a></div></td>
+<td width="200" align="center" valign="middle">
+  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+      <tr>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/01ss.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/s.jpg" border="0"></a></td>
+        <td width="24" height="24">&nbsp;</td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/01aa.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/a.jpg" border="0"></a></td>
+        <td width="24" height="24">&nbsp;</td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/01t1.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/t-1.jpg" border="0"></a></td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/01t2.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/t-2.jpg" border="0"></a></td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/01bb.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/b.jpg" border="0"></a></td>
+      <td width="24" height="24">&nbsp;</td></tr></tbody></table></td>
+<td><div style="text-align: center;"><a href="http://jubil.cafe24.com/lo/love/htm/01.htm" target="_blank"><img width="27" height="24" src="http://jubil.cafe24.com/my/10/maine/sould.jpg" border="0"></a></div></td>
+</tr>
+<tr>
+<td align="center" class="style">
+
+<div style="text-align: center;"><span class="style3">2</span></div></td>
+<td height="25" class="style style3">
+<div style="text-align: left;">
+<table width="98%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<p>나를 기억하라</p></td></tr></tbody></table></div></td>
+<td align="center" valign="middle">
+  <p style="text-align: center;">최기욱 </p></td>
+<td><div style="text-align: center;"><a href="https://youtu.be/rG-4A2lfIBo" target="_blank"><img width="34" height="24" src="http://jubil.cafe24.com/my/10/maine/tube.jpg" border="0"></a></div></td>
+<td width="200">
+  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+      <tr>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/02ss.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/s.jpg" border="0"></a></td>
+        <td width="24" height="24">&nbsp;</td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/02aa.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/a.jpg" border="0"></a></td>
+        <td width="24" height="24">&nbsp;</td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/02tt.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/t.jpg" border="0"></a></td>
+        <td width="24" height="24">&nbsp;</td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/02bb.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/b.jpg" border="0"></a></td>
+      <td width="24" height="24">&nbsp;</td></tr></tbody></table></td>
+<td align="center" valign="middle"><div style="text-align: center;"><a href="http://jubil.cafe24.com/lo/love/htm/02.htm" target="_blank"><img width="27" height="24" src="http://jubil.cafe24.com/my/10/maine/sould.jpg" border="0"></a></div></td>
+</tr>
+<tr>
+<td align="center" class="style">
+<div style="text-align: center;"><span class="style3">3</span></div></td>
+<td height="25" class="style style3">
+<div style="text-align: left;">
+<table width="98%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<p>십자가에 못박아라 </p></td></tr></tbody></table></div></td>
+<td align="center" valign="middle">
+  <p style="text-align: center;">최기욱 </p></td>
+<td><div style="text-align: center;"><a href="https://youtu.be/bO9HOHKLBZI" target="_blank"><img width="34" height="24" src="http://jubil.cafe24.com/my/10/maine/tube.jpg" border="0"></a></div></td>
+<td width="200">
+  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+      <tr>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/03ss.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/s.jpg" border="0"></a></td>
+        <td width="24" height="24">&nbsp;</td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/03aa.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/a.jpg" border="0"></a></td>
+        <td width="24" height="24">&nbsp;</td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/03tt.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/t.jpg" border="0"></a></td>
+        <td width="24" height="24">&nbsp;</td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/03bb.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/b.jpg" border="0"></a></td>
+      <td width="24" height="24">&nbsp;</td></tr></tbody></table></td>
+<td align="center" valign="middle"><div style="text-align: center;"><a href="http://jubil.cafe24.com/lo/love/htm/03.htm" target="_blank"><img width="27" height="24" src="http://jubil.cafe24.com/my/10/maine/sould.jpg" border="0"></a></div></td>
+</tr>
+<tr>
+<td align="center" class="style">
+<div style="text-align: center;">4</div></td>
+<td height="25" class="style style3">
+<div style="text-align: left;">
+<table width="98%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<p>십자가 그 사랑 </p></td></tr></tbody></table></div></td>
+<td align="center" valign="middle">
+  <p style="text-align: center;">최기욱 </p></td>
+<td><div style="text-align: center;"><a href="https://youtu.be/mJhttdkwK90" target="_blank"><img width="34" height="24" src="http://jubil.cafe24.com/my/10/maine/tube.jpg" border="0"></a></div></td>
+<td width="200">
+  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+      <tr>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/04ss.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/s.jpg" border="0"></a></td>
+        <td width="24" height="24">&nbsp;</td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/04aa.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/a.jpg" border="0"></a></td>
+        <td width="24" height="24">&nbsp;</td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/04tt.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/t.jpg" border="0"></a></td>
+        <td width="24" height="24">&nbsp;</td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/04bb.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/b.jpg" border="0"></a></td>
+      <td width="24" height="24">&nbsp;</td></tr></tbody></table></td>
+<td align="center" valign="middle"><p style="text-align: center;"><a href="http://jubil.cafe24.com/lo/love/htm/04.htm" target="_blank"><img width="27" height="24" src="http://jubil.cafe24.com/my/10/maine/sould.jpg" border="0"></a></p></td>
+</tr>
+<tr>
+<td align="center" class="style">
+<div style="text-align: center;"><span class="style3">5</span></div></td>
+<td height="25" class="style style3">
+<div style="text-align: left;">
+<table width="98%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<p>찬양! 영광의 주 </p></td></tr></tbody></table></div></td>
+<td align="center" valign="middle">
+  <p style="text-align: center;">최기욱 </p></td>
+<td><div style="text-align: center;"><a href="https://youtu.be/X_iXIM8uIKA" target="_blank"><img width="34" height="24" src="http://jubil.cafe24.com/my/10/maine/tube.jpg" border="0"></a></div></td>
+<td width="200">
+  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+      <tr>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/05s1.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/s-1.jpg" border="0"></a></td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/05s2.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/s-2.jpg" border="0"></a></td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/05a1.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/a-1.jpg" border="0"></a></td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/05a2.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/a-2.jpg" border="0"></a></td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/05t1.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/t-1.jpg" border="0"></a></td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/05t2.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/t-2.jpg" border="0"></a></td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/05b1.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/b-1.jpg" border="0"></a></td>
+      <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/05b2.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/b-2.jpg" border="0"></a></td></tr></tbody></table></td>
+<td align="center" valign="middle"><div style="text-align: center;">
+  <div style="text-align: center;"><a href="http://jubil.cafe24.com/lo/love/htm/05.htm" target="_blank"><img width="27" height="24" src="http://jubil.cafe24.com/my/10/maine/sould.jpg" border="0"></a></div>
+</div></td>
+</tr>
+<tr>
+<td align="center" class="style">
+<div style="text-align: center;"><span class="style3">6</span></div></td>
+<td height="25" class="style style3">
+<div style="text-align: left;">
+<table width="98%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<p>주님 부활하셨네 </p></td></tr></tbody></table></div></td>
+<td align="center" valign="middle">
+  <p style="text-align: center;">최기욱 </p></td>
+<td><div style="text-align: center;"><a href="https://youtu.be/XFqLGCajrpA" target="_blank"><img width="34" height="24" src="http://jubil.cafe24.com/my/10/maine/tube.jpg" border="0"></a></div></td>
+<td width="200">
+  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+      <tr>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/06s1.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/s-1.jpg" border="0"></a></td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/06s2.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/s-2.jpg" border="0"></a></td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/06aa.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/a.jpg" border="0"></a></td>
+        <td width="24" height="24">&nbsp;</td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/06tt.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/t.jpg" border="0"></a></td>
+        <td width="24" height="24">&nbsp;</td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/06bb.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/b.jpg" border="0"></a></td>
+      <td width="24" height="24">&nbsp;</td></tr></tbody></table></td>
+<td align="center" valign="middle"><div style="text-align: center;">
+  <div style="text-align: center;"><a href="http://jubil.cafe24.com/lo/love/htm/06.htm" target="_blank"><img width="27" height="24" src="http://jubil.cafe24.com/my/10/maine/sould.jpg" border="0"></a></div>
+</div></td>
+</tr>
+<tr>
+<td align="center" class="style">
+<div style="text-align: center;"><span class="style3">7</span></div></td>
+<td height="25" class="style style3">
+<div style="text-align: left;">
+<table width="98%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<p>온 세상에 선포하라 </p></td></tr></tbody></table></div></td>
+<td align="center" valign="middle">
+  <p style="text-align: center;">최기욱 </p></td>
+<td><div style="text-align: center;"><a href="https://youtu.be/ubsr1P-iVSg" target="_blank"><img width="34" height="24" src="http://jubil.cafe24.com/my/10/maine/tube.jpg" border="0"></a></div></td>
+<td width="200">
+  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+      <tr>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/07s1.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/s-1.jpg" border="0"></a></td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/07s2.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/s-2.jpg" border="0"></a></td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/07aa.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/a.jpg" border="0"></a></td>
+        <td width="24" height="24">&nbsp;</td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/07tt.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/t.jpg" border="0"></a></td>
+        <td width="24" height="24">&nbsp;</td>
+        <td width="24" height="24"><a href="http://jubil.cafe24.com/lo/love/htm1/07bb.htm" target="_blank"><img width="24" height="24" src="http://jubil.cafe24.com/can/ad/b.jpg" border="0"></a></td>
+  <td width="24" height="24">&nbsp;</td></tr></tbody></table></td>
+<td align="center" valign="middle"><div style="text-align: center;">
+  <div style="text-align: center;"><a href="http://jubil.cafe24.com/lo/love/htm/07.htm" target="_blank"><img width="27" height="24" src="http://jubil.cafe24.com/my/10/maine/sould.jpg" border="0"></a></div>
+</div></td>
+</tr>
+</tbody></table><br><br>
+<p style="margin: 0px;">
+*'십자가, 그 사랑'의 '가사PPT'와 '포스터'는 유빌라테 블로그 자료실에서 다운받으실 수 있습니다.&nbsp;</p>
+<p style="margin: 0px;"><a href="https://blog.naver.com/jubilate2280/221816535492" target="_blank"><b>⏩ 블로그 자료실 바로가기</b></a></p>
+
+<p></p><div style="text-align: left;"><img src="http://www.jubilate.com/design/jubil123/listen.jpg" border="0">
+<p><br>
+  편성-Flute/Oboe/Clarinet in Bb/Basson/Horn in F/Trumpet in Bb/
+  Trombone/Tuba/
+  Violin1/Violin2/Viola/Violoncello/contrabass
+</p>
+<p> <strong>*'십자가 그 사랑' 오케스트라 악보의 경우 음원과 악보의 편성&amp;편곡이 다릅니다. <br>
+구매 전 오케스트라 게시판에서 악보를 미리 확인 하시고 주문해주시기 바랍니다.&nbsp;<br><br>
+  *&nbsp;자세한 문의는 유빌라테 사무실 032-324-2280으로 해주시기 바랍니다.</strong> </p><br></div>
+<div style="text-align: center;">
+	<a href="http://www.jubilate.com/shop/shopdetail.html?branduid=307333"><img src="http://jubil.cafe24.com/orc/the love_orc_baro.jpg" border="0"></a></div><br><br>                        
+                                <!-- s: 상품 일반정보(상품정보제공 고시) -->
+                                                                <!-- e: 상품 일반정보(상품정보제공 고시) -->
+                               
+                               
+                               
+                                                                <!-- 몰티비 플레이어 노출 위치 -->
+<div id="malltb_video_player" style="margin-top: 10px; margin-bottom: 10px; text-align: center; display: none;"></div>                                                            </div>
